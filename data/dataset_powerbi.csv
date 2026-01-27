@@ -1,0 +1,106 @@
+produto,valor,data_venda,status,comissao
+Notebook Dell XPS,8500.00,2023-10-10,Confirmado,850.00
+Monitor LG Ultrawide,1800.50,2023-10-11,Enviado,180.05
+Mouse Logitech MX,450.00,2023-10-11,Entregue,45.00
+Teclado Keychron,600.00,2023-10-12,Pendente,60.00
+Cadeira Gamer,1200.00,2023-10-13,Confirmado,120.00
+Dell Notebook Latitude,4500.00,2023-10-15,Confirmado,450.00
+Dell Monitor 24pol,1200.00,2023-10-15,Enviado,120.00
+Dell Mouse Wireless,150.00,2023-10-15,Entregue,15.00
+Dell Teclado USB,200.00,2023-10-15,Pendente,20.00
+Dell Dock Station,1500.00,2023-10-15,Confirmado,150.00
+Dell Mochila Pro,350.00,2023-10-15,Confirmado,35.00
+Dell Servidor PowerEdge,15000.00,2023-10-15,Processando,1500.00
+Dell Webcam UltraSharp,900.00,2023-10-15,Enviado,90.00
+Dell Headset Alienware,800.00,2023-10-15,Entregue,80.00
+Dell Adaptador USB-C,120.00,2023-10-15,Confirmado,12.00
+Samsung Galaxy S23,5000.00,2023-10-16,Confirmado,500.00
+Samsung Tab S9,4500.00,2023-10-16,Enviado,450.00
+Samsung Monitor Odyssey,3200.00,2023-10-16,Pendente,320.00
+Samsung SSD 980 Pro,900.00,2023-10-16,Confirmado,90.00
+Samsung TV Crystal 55,2800.00,2023-10-16,Processando,280.00
+Samsung Soundbar Q-Series,1500.00,2023-10-16,Entregue,150.00
+Samsung Galaxy Watch 6,1800.00,2023-10-16,Confirmado,180.00
+Samsung Care+,500.00,2023-10-16,Confirmado,50.00
+Samsung Carregador Super,250.00,2023-10-16,Enviado,25.00
+Samsung Capa Protetora,150.00,2023-10-16,Entregue,15.00
+Apple MacBook Air,8000.00,2023-10-17,Confirmado,800.00
+Apple iPhone 15 Pro,9500.00,2023-10-17,Processando,950.00
+Apple iPad Air,4500.00,2023-10-17,Enviado,450.00
+Apple Watch Series 9,3500.00,2023-10-17,Confirmado,350.00
+Apple AirPods Pro,1800.00,2023-10-17,Entregue,180.00
+Apple Magic Mouse,600.00,2023-10-17,Confirmado,60.00
+Apple Magic Keyboard,1200.00,2023-10-17,Pendente,120.00
+Apple Studio Display,12000.00,2023-10-17,Confirmado,1200.00
+Apple Apple TV 4K,1500.00,2023-10-17,Enviado,150.00
+Apple AirTag,250.00,2023-10-17,Entregue,25.00
+Logitech Mouse MX Master 3,600.00,2023-10-18,Confirmado,60.00
+Logitech Teclado MX Keys,700.00,2023-10-18,Enviado,70.00
+Logitech Webcam C920,450.00,2023-10-18,Confirmado,45.00
+Logitech Headset Zone,1200.00,2023-10-18,Processando,120.00
+Logitech Mousepad Desk,150.00,2023-10-18,Entregue,15.00
+Logitech Caixas Som Z407,550.00,2023-10-18,Confirmado,55.00
+Logitech Mouse Vertical,400.00,2023-10-18,Pendente,40.00
+Logitech Teclado Mecanico POP,650.00,2023-10-18,Confirmado,65.00
+Logitech StreamCam,950.00,2023-10-18,Enviado,95.00
+Logitech Presenter R500,250.00,2023-10-18,Entregue,25.00
+Razer Blade 15,15000.00,2023-10-19,Confirmado,1500.00
+Razer DeathAdder V3,500.00,2023-10-19,Processando,50.00
+Razer BlackWidow V4,1100.00,2023-10-19,Enviado,110.00
+Razer Kraken Kitty,600.00,2023-10-19,Confirmado,60.00
+Razer Iskur Chair,2500.00,2023-10-19,Entregue,250.00
+Razer Kiyo Pro,1200.00,2023-10-19,Confirmado,120.00
+Razer Seiren Mini,400.00,2023-10-19,Pendente,40.00
+Razer Barracuda X,800.00,2023-10-19,Confirmado,80.00
+Razer Viper Ultimate,900.00,2023-10-19,Enviado,90.00
+Razer Goliathus Chroma,300.00,2023-10-19,Entregue,30.00
+Asus ROG Zephyrus,12000.00,2023-10-20,Confirmado,1200.00
+Asus TUF Gaming Monitor,1800.00,2023-10-20,Enviado,180.00
+Asus Placa Asus Prime,1200.00,2023-10-20,Processando,120.00
+Asus Roteador WiFi 6,900.00,2023-10-20,Confirmado,90.00
+Asus ZenBook Duo,11000.00,2023-10-20,Entregue,1100.00
+Asus ROG Phone 7,6000.00,2023-10-20,Confirmado,600.00
+Asus Teclado ROG Strix,850.00,2023-10-20,Pendente,85.00
+Asus Mouse ROG Gladius,450.00,2023-10-20,Confirmado,45.00
+Asus Headset Delta,950.00,2023-10-20,Enviado,95.00
+Asus Webcam C3,300.00,2023-10-20,Entregue,30.00
+Acer Predator Helios,9000.00,2023-10-21,Confirmado,900.00
+Acer Swift 5,5500.00,2023-10-21,Enviado,550.00
+Acer Monitor Nitro,1500.00,2023-10-21,Confirmado,150.00
+Acer Aspire 5,3500.00,2023-10-21,Processando,350.00
+Acer Chromebook Spin,2500.00,2023-10-21,Entregue,250.00
+Acer Projector X,3000.00,2023-10-21,Confirmado,300.00
+Acer Mouse Predator,350.00,2023-10-21,Pendente,35.00
+Acer Headset Galea,450.00,2023-10-21,Confirmado,45.00
+Acer Mochila Predator,400.00,2023-10-21,Enviado,40.00
+Acer Teclado Aethon,500.00,2023-10-21,Entregue,50.00
+HP Spectre x360,9500.00,2023-10-22,Confirmado,950.00
+HP Omen 16,8500.00,2023-10-22,Enviado,850.00
+HP Impressora Tank,1200.00,2023-10-22,Confirmado,120.00
+HP Monitor 27f,1100.00,2023-10-22,Processando,110.00
+HP Mouse Wireless,120.00,2023-10-22,Entregue,12.00
+HP Teclado 970,450.00,2023-10-22,Confirmado,45.00
+HP Dragonfly Pro,10000.00,2023-10-22,Pendente,1000.00
+HP Cartucho 664,80.00,2023-10-22,Confirmado,8.00
+HP Webcam w300,250.00,2023-10-22,Enviado,25.00
+HP Omen Headset,600.00,2023-10-22,Entregue,60.00
+Sony WH-1000XM5,2200.00,2023-10-23,Confirmado,220.00
+Sony PlayStation 5,4500.00,2023-10-23,Enviado,450.00
+Sony TV Bravia XR,6000.00,2023-10-23,Confirmado,600.00
+Sony Camera Alpha 7,12000.00,2023-10-23,Processando,1200.00
+Sony Lente G Master,8000.00,2023-10-23,Entregue,800.00
+Sony DualSense Edge,1200.00,2023-10-23,Confirmado,120.00
+Sony Xperia 1 V,7000.00,2023-10-23,Pendente,700.00
+Sony Soundbar HT,3500.00,2023-10-23,Confirmado,350.00
+Sony Memory Card,300.00,2023-10-23,Enviado,30.00
+Sony LinkBuds S,900.00,2023-10-23,Entregue,90.00
+LG OLED Evo C3,7000.00,2023-10-24,Confirmado,700.00
+LG Monitor UltraGear,2500.00,2023-10-24,Enviado,250.00
+LG Gram 17,9000.00,2023-10-24,Confirmado,900.00
+LG Geladeira Smart,15000.00,2023-10-24,Processando,1500.00
+LG Soundbar SC9,2200.00,2023-10-24,Entregue,220.00
+LG Xboom Go,500.00,2023-10-24,Confirmado,50.00
+LG Ar Condicionado,3500.00,2023-10-24,Pendente,350.00
+LG Projetor CineBeam,4000.00,2023-10-24,Confirmado,400.00
+LG Monitor Ergo,3000.00,2023-10-24,Enviado,300.00
+LG Fone Tone Free,600.00,2023-10-24,Entregue,60.00

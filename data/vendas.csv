@@ -1,0 +1,9 @@
+produto,valor,data,status
+Notebook Gamer,3500.00,2023-10-01,Confirmado
+Mouse Sem Fio,50.00,2023-10-02,Confirmado
+Teclado Mecânico,150.00,2023-10-02,Pendente
+Monitor 4k,-200.00,2023-10-03,Cancelado
+Cadeira Ergonômica,1200.00,2023-10-04,Confirmado
+Headset RGB,0.00,2023-10-05,Erro
+Placa de Vídeo,4500.00,2023-10-06,Confirmado
+SSD 1TB,400.00,2023-10-07,Enviado
